@@ -1,1 +1,26 @@
+DEVANSH GUPTA
+B.Tech CSE (AI & ML) | First Year
 
+CAREER OBJECTIVE
+Aspiring AI/ML Engineer interested in programming, artificial intelligence and software development.
+
+EDUCATION
+B.Tech Computer Science & Engineering (AI & ML)
+KR Mangalam University
+First Year
+
+TECHNICAL SKILLS
+• Python
+• HTML & CSS
+• Linux
+• Git & GitHub
+• Basic JavaScript
+
+PROJECTS
+DeveloperPortfolio
+A portfolio project containing Linux documentation, shell scripts, API experiments and web development work.
+GitHub: https://github.com/devansh722/DeveloperPortfolio
+
+LINKS
+GitHub: https://github.com/devansh722
+LinkedIn: [Paste your LinkedIn profile URL]
